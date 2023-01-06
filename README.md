@@ -1,4 +1,4 @@
-# CLIP#1 - [CLIP SHORT NAME] [<img style="float: right;" src="https://trevalabs.com/wp-content/uploads/2022/12/trevelabs_logo.png" width="180">]
+# CLIP#6 - Local Sea Level Rise <img style="float: right;" src="https://trevalabs.com/wp-content/uploads/2022/12/trevelabs_logo.png" width="180">
 <hr>
 
 ## TrevaLabs
