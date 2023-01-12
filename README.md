@@ -5,6 +5,7 @@
  
 [TrevaLabs](https://www.TrevaLabs.com) is a collective of climate data visualisation creatives in Europe, brought together by the desire to make a big impact with little pictures. Its mission is to rapidly create little pictures of climate for maximal human impact, and the vision is to reach every European by the end of decade with a little picture on Climate.
 
+
 ## Background on this CLIP
 This clip shows the average sea level rise in millimeters per year for various locations along European coasts between 2002 and 2019. Sea level rise is a significant indicator of climate change, as rising sea levels can lead to flooding and coastal erosion, which can have severe consequences for human communities and ecosystems. Understanding the rate at which sea levels are rising can help policymakers, scientists, and communities plan for and mitigate the impacts of climate change. This data visualization can be used to identify areas that are particularly vulnerable to sea level rise and to track the effectiveness of efforts to address this issue.
 
@@ -30,9 +31,12 @@ To prepare the data, follow these steps:
 This example uses DataWrapper, but similar visualizations can also be created using other tools. To create a new visualization, follow these steps:
 
  - Log into Datawrapper and create a new symbol map
- - Upload .csv file created by jupiter notebook 
+ - Upload .csv file created by jupyter notebook 
  - Datawrapper should automatically parse latitude and longitude columns and create a symbol per measurement
  - Change symbol to spike map and choose the "sla" column for height and color
+ 
+## CLIP URL (Result)
+https://www.datawrapper.de/_/6JweP/
 
 ## CREDITS & LICENSE
 - Idea by: [SEANOE](https://doi.org/10.17882/74354)
