@@ -36,7 +36,7 @@ This example uses DataWrapper, but similar visualizations can also be created us
  - Change symbol to spike map and choose the "sla" column for height and color
  
 ## CLIP URL (Result)
-https://www.datawrapper.de/_/6JweP/
+https://www.datawrapper.de/_/vGOQ0/
 
 ## CREDITS & LICENSE
 - Idea by: [SEANOE](https://doi.org/10.17882/74354)
