@@ -7,8 +7,9 @@
 
 
 ## Background on this CLIP
-This clip shows the average sea level rise in millimeters per year for various locations along European coasts between 2002 and 2019. Sea level rise is a significant indicator of climate change, as rising sea levels can lead to flooding and coastal erosion, which can have severe consequences for human communities and ecosystems. Understanding the rate at which sea levels are rising can help policymakers, scientists, and communities plan for and mitigate the impacts of climate change. This data visualization can be used to identify areas that are particularly vulnerable to sea level rise and to track the effectiveness of efforts to address this issue.
+Sea level rise has a localized character and can vary greatly in different parts of Europe. For example, the North Sea region is particularly vulnerable due to land subsidence and increased storminess, while the Mediterranean is more affected by changes in ocean currents and salinity. To understand these differences, scientists use data derived from radar satellites to measure the height of the sea surface with millimeter precision.
 
+This information is crucial for developing effective adaptation strategies, such as building sea defenses or planning for relocation of coastal populations.
 
 ## Data Sources
 
