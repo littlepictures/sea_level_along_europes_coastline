@@ -31,13 +31,13 @@ To prepare the data, follow these steps:
 ## Creating Visualizations
 This example uses DataWrapper, but similar visualizations can also be created using other tools. To create a new visualization, follow these steps:
 
- - Log into Datawrapper and create a new symbol map
+ - Log into Datawrapper and create a new symbol map or new scatter plot
  - Upload .csv file created by jupyter notebook 
  - Datawrapper should automatically parse latitude and longitude columns and create a symbol per measurement
- - Change symbol to spike map and choose the "sla" column for height and color
+ - Change symbols to your liking and use "sla" column for height and color
  
 ## CLIP URL (Result)
-https://www.datawrapper.de/_/vGOQ0/
+https://www.datawrapper.de/_/8FV4Z/
 
 ## CREDITS & LICENSE
 - Idea by: [SEANOE](https://doi.org/10.17882/74354)
