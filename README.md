@@ -35,9 +35,6 @@ This example uses DataWrapper, but similar visualizations can also be created us
  - Upload .csv file created by jupyter notebook 
  - Datawrapper should automatically parse latitude and longitude columns and create a symbol per measurement
  - Change symbols to your liking and use "sla" column for height and color
- 
-## CLIP URL (Result)
-https://www.datawrapper.de/_/8FV4Z/
 
 ## CREDITS & LICENSE
 - Idea by: [SEANOE](https://doi.org/10.17882/74354)
