@@ -13,9 +13,11 @@ This information is crucial for developing effective adaptation strategies, such
 
 ## Data Sources
 
-The CLIP uses the following datasets:
-- Cazenave Anny, Gouzenes Yvan, Birol Florence, Legér Fabien, Passaro Marcello, Calafat Francisco M, Shaw Andrew, Niño Fernando, Legeais Jean François, Oelsmann Julius, Benveniste Jérôme (2022). New network of virtual altimetry stations for measuring sea level along the world coastlines. SEANOE. https://doi.org/10.17882/74354
+The science data used for this Little Picture was sourced from the Sea Level CCI project of the European Space Agency (ESA) Climate Change Initiative (CCI) programme and will be made available on the CCI data facility soon. For other data products, key documents, publications and further information visit CCI Sea Level.
 
+A corresponding sea level data record is provided operationally by the ECMWF Copernicus Climate Change Service.
+
+Data from EUMETSAT operated missions contribute to climate monitoring.
 
 ## Data Preparation
 
