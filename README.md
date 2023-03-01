@@ -1,4 +1,4 @@
-# CLIP#6 - Local Sea Level Rise <img style="float: right;" src="https://raw.githubusercontent.com/trevalabs/.github/main/logos/trevelabs_logo.png" width="180">
+# CLIP - local sea level anomaly <img style="float: right;" src="https://raw.githubusercontent.com/trevalabs/.github/main/logos/trevelabs_logo.png" width="180">
 <hr>
 
 ## TrevaLabs
