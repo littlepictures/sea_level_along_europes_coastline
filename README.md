@@ -1,10 +1,4 @@
-# CLIP - local sea level anomaly <img style="float: right;" src="https://raw.githubusercontent.com/trevalabs/.github/main/logos/trevelabs_logo.png" width="180">
-<hr>
-
-## TrevaLabs
- 
-[TrevaLabs](https://www.TrevaLabs.com) is a collective of climate data visualisation creatives in Europe, brought together by the desire to make a big impact with little pictures. Its mission is to rapidly create little pictures of climate for maximal human impact, and the vision is to reach every European by the end of decade with a little picture on Climate.
-
+# CLIP - local sea level anomaly 
 
 ## Background on this CLIP
 Sea level rise has a localized character and can vary greatly in different parts of Europe. For example, the North Sea region is particularly vulnerable due to land subsidence and increased storminess, while the Mediterranean is more affected by changes in ocean currents and salinity. To understand these differences, scientists use data derived from radar satellites to measure the height of the sea surface with millimeter precision.
