@@ -1,9 +1,11 @@
-# CLIP - local sea level anomaly 
+# little picture - sea level along europe’s coastline
 
-## Background on this CLIP
-Sea level rise has a localized character and can vary greatly in different parts of Europe. For example, the North Sea region is particularly vulnerable due to land subsidence and increased storminess, while the Mediterranean is more affected by changes in ocean currents and salinity. To understand these differences, scientists use data derived from radar satellites to measure the height of the sea surface with millimeter precision.
+## Background on this little picture
+_observing sea level trends where the impact if felt_
 
-This information is crucial for developing effective adaptation strategies, such as building sea defenses or planning for relocation of coastal populations.
+The impacts of rising sea levels are felt along the coast. Satellite data provide a key role in improving better estimation of coastal sea level trends across Europe ... and beyond! This illustration highlights data from &#39;virtual&#39; coastal sea level stations, using reprocessed satellite altimetry data around the europe’s coastline.
+
+https://climate.esa.int/en/little-pictures-gallery/sea-level-along-Europes-coastline/
 
 ## Data Sources
 
