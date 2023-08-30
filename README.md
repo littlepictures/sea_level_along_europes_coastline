@@ -26,7 +26,7 @@ To prepare the data, follow these steps:
  - Run the notebook "clip_6_sea_level_rise_locally_dataprep.ipynb" and wait for the data download and preprocessing. Depending on the available internet connection it should be finished in ±2 minutes.
  - Optional: Adapt the bounding box (latitude and longitude filter) for your area of interest and rerun notebook
 
-## Creating Visualizations
+## Creating Visualisations
 This example uses DataWrapper, but similar visualizations can also be created using other tools. To create a new visualization, follow these steps:
 
  - Log into Datawrapper and create a new symbol map or new scatter plot
