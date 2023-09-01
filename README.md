@@ -37,6 +37,6 @@ This example uses DataWrapper, but similar visualizations can also be created us
 ## CREDITS & LICENSE
 - Idea by: [SEANOE](https://doi.org/10.17882/74354)
 - Processing Scripts by: [UBILABS](https://www.ubilabs.com/)
-- Visualization by: [UBILABS](https://www.ubilabs.com/)
+- Visualisation by: [UBILABS](https://www.ubilabs.com/)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
